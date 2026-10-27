@@ -1,0 +1,7 @@
+[
+ {"id":"th-s","title":"TH vs S","sounds":["/θ/","/s/"],"tip":"For /θ/, gently place your tongue between your teeth and let air pass. For /s/, keep your tongue behind your teeth.","pairs":[["thin","sin"],["think","sink"],["thank","sank"]]},
+ {"id":"r-l","title":"R vs L","sounds":["/r/","/l/"],"tip":"For /l/, touch the ridge behind your upper teeth with your tongue. For /r/, pull the tongue back without touching the roof of your mouth.","pairs":[["right","light"],["road","load"],["rice","lice"]]},
+ {"id":"v-w","title":"V vs W","sounds":["/v/","/w/"],"tip":"For /v/, touch your upper teeth to your lower lip. For /w/, round your lips without touching your teeth.","pairs":[["vest","west"],["vine","wine"],["vet","wet"]]},
+ {"id":"i-ee","title":"Short I vs Long EE","sounds":["/ɪ/","/iː/"],"tip":"/ɪ/ is relaxed and short; /iː/ is tenser and usually longer.","pairs":[["ship","sheep"],["sit","seat"],["live","leave"]]},
+ {"id":"b-p","title":"B vs P","sounds":["/b/","/p/"],"tip":"/b/ is voiced. /p/ is voiceless and often has a puff of air at the start of a stressed syllable.","pairs":[["bat","pat"],["bin","pin"],["beach","peach"]]}
+]

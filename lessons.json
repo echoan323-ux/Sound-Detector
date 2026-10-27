@@ -1,7 +1,506 @@
 [
- {"id":"th-s","title":"TH vs S","sounds":["/θ/","/s/"],"tip":"For /θ/, gently place your tongue between your teeth and let air pass. For /s/, keep your tongue behind your teeth.","pairs":[["thin","sin"],["think","sink"],["thank","sank"]]},
- {"id":"r-l","title":"R vs L","sounds":["/r/","/l/"],"tip":"For /l/, touch the ridge behind your upper teeth with your tongue. For /r/, pull the tongue back without touching the roof of your mouth.","pairs":[["right","light"],["road","load"],["rice","lice"]]},
- {"id":"v-w","title":"V vs W","sounds":["/v/","/w/"],"tip":"For /v/, touch your upper teeth to your lower lip. For /w/, round your lips without touching your teeth.","pairs":[["vest","west"],["vine","wine"],["vet","wet"]]},
- {"id":"i-ee","title":"Short I vs Long EE","sounds":["/ɪ/","/iː/"],"tip":"/ɪ/ is relaxed and short; /iː/ is tenser and usually longer.","pairs":[["ship","sheep"],["sit","seat"],["live","leave"]]},
- {"id":"b-p","title":"B vs P","sounds":["/b/","/p/"],"tip":"/b/ is voiced. /p/ is voiceless and often has a puff of air at the start of a stressed syllable.","pairs":[["bat","pat"],["bin","pin"],["beach","peach"]]}
+  {
+    "id": "th-s",
+    "title": "TH vs S",
+    "sounds": [
+      "/θ/",
+      "/s/"
+    ],
+    "tip": "For /θ/, gently place your tongue between your teeth and let air pass. For /s/, keep your tongue behind your teeth.",
+    "pairs": [
+      [
+        "thin",
+        "sin"
+      ],
+      [
+        "think",
+        "sink"
+      ],
+      [
+        "thank",
+        "sank"
+      ]
+    ]
+  },
+  {
+    "id": "r-l",
+    "title": "R vs L",
+    "sounds": [
+      "/r/",
+      "/l/"
+    ],
+    "tip": "For /l/, touch the ridge behind your upper teeth with your tongue. For /r/, pull the tongue back without touching the roof of your mouth.",
+    "pairs": [
+      [
+        "right",
+        "light"
+      ],
+      [
+        "road",
+        "load"
+      ],
+      [
+        "rice",
+        "lice"
+      ]
+    ]
+  },
+  {
+    "id": "v-w",
+    "title": "V vs W",
+    "sounds": [
+      "/v/",
+      "/w/"
+    ],
+    "tip": "For /v/, touch your upper teeth to your lower lip. For /w/, round your lips without touching your teeth.",
+    "pairs": [
+      [
+        "vest",
+        "west"
+      ],
+      [
+        "vine",
+        "wine"
+      ],
+      [
+        "vet",
+        "wet"
+      ]
+    ]
+  },
+  {
+    "id": "i-ee",
+    "title": "Short I vs Long EE",
+    "sounds": [
+      "/ɪ/",
+      "/iː/"
+    ],
+    "tip": "/ɪ/ is relaxed and short; /iː/ is tenser and usually longer.",
+    "pairs": [
+      [
+        "ship",
+        "sheep"
+      ],
+      [
+        "sit",
+        "seat"
+      ],
+      [
+        "live",
+        "leave"
+      ]
+    ]
+  },
+  {
+    "id": "b-p",
+    "title": "B vs P",
+    "sounds": [
+      "/b/",
+      "/p/"
+    ],
+    "tip": "/b/ is voiced. /p/ is voiceless and often has a puff of air at the start of a stressed syllable.",
+    "pairs": [
+      [
+        "bat",
+        "pat"
+      ],
+      [
+        "bin",
+        "pin"
+      ],
+      [
+        "beach",
+        "peach"
+      ]
+    ]
+  },
+  {
+    "id": "f-v",
+    "title": "F vs V",
+    "sounds": [
+      "/f/",
+      "/v/"
+    ],
+    "tip": "Both use upper teeth against the lower lip. /f/ is voiceless; /v/ uses vocal-fold vibration.",
+    "pairs": [
+      [
+        "fan",
+        "van"
+      ],
+      [
+        "fine",
+        "vine"
+      ],
+      [
+        "safe",
+        "save"
+      ],
+      [
+        "leaf",
+        "leave"
+      ]
+    ]
+  },
+  {
+    "id": "n-l",
+    "title": "N vs L",
+    "sounds": [
+      "/n/",
+      "/l/"
+    ],
+    "tip": "Both touch the ridge behind the upper teeth. For /n/, air flows through the nose; for /l/, air flows around the sides of the tongue.",
+    "pairs": [
+      [
+        "night",
+        "light"
+      ],
+      [
+        "no",
+        "low"
+      ],
+      [
+        "nine",
+        "line"
+      ]
+    ]
+  },
+  {
+    "id": "s-sh",
+    "title": "S vs SH",
+    "sounds": [
+      "/s/",
+      "/ʃ/"
+    ],
+    "tip": "For /s/, keep the tongue closer to the front teeth. For /ʃ/, draw it slightly back and round the lips a little.",
+    "pairs": [
+      [
+        "see",
+        "she"
+      ],
+      [
+        "sip",
+        "ship"
+      ],
+      [
+        "sell",
+        "shell"
+      ],
+      [
+        "sue",
+        "shoe"
+      ]
+    ]
+  },
+  {
+    "id": "ch-sh",
+    "title": "CH vs SH",
+    "sounds": [
+      "/tʃ/",
+      "/ʃ/"
+    ],
+    "tip": "/tʃ/ begins with a brief stop before releasing air; /ʃ/ is continuous friction.",
+    "pairs": [
+      [
+        "chair",
+        "share"
+      ],
+      [
+        "chew",
+        "shoe"
+      ],
+      [
+        "chip",
+        "ship"
+      ],
+      [
+        "choose",
+        "shoes"
+      ]
+    ]
+  },
+  {
+    "id": "e-i",
+    "title": "E vs Short I",
+    "sounds": [
+      "/ɛ/",
+      "/ɪ/"
+    ],
+    "tip": "/ɛ/ has a more open jaw than /ɪ/. Keep both vowels short and relaxed.",
+    "pairs": [
+      [
+        "pen",
+        "pin"
+      ],
+      [
+        "bed",
+        "bid"
+      ],
+      [
+        "set",
+        "sit"
+      ],
+      [
+        "fell",
+        "fill"
+      ]
+    ]
+  },
+  {
+    "id": "a-e",
+    "title": "A vs E",
+    "sounds": [
+      "/æ/",
+      "/ɛ/"
+    ],
+    "tip": "/æ/ needs a wider mouth opening than /ɛ/. Avoid replacing either with a Mandarin vowel.",
+    "pairs": [
+      [
+        "bad",
+        "bed"
+      ],
+      [
+        "man",
+        "men"
+      ],
+      [
+        "sat",
+        "set"
+      ],
+      [
+        "land",
+        "lend"
+      ]
+    ]
+  },
+  {
+    "id": "u-oo",
+    "title": "Short U vs OO",
+    "sounds": [
+      "/ʊ/",
+      "/uː/"
+    ],
+    "tip": "/ʊ/ is shorter and more relaxed; /uː/ is tenser, with rounded lips.",
+    "pairs": [
+      [
+        "full",
+        "fool"
+      ],
+      [
+        "pull",
+        "pool"
+      ],
+      [
+        "look",
+        "Luke"
+      ]
+    ]
+  },
+  {
+    "id": "uh-ah",
+    "title": "UH vs AH",
+    "sounds": [
+      "/ʌ/",
+      "/ɑ/"
+    ],
+    "tip": "In American English, /ʌ/ is central and relatively relaxed; /ɑ/ is farther back with a more open jaw.",
+    "pairs": [
+      [
+        "cut",
+        "cot"
+      ],
+      [
+        "luck",
+        "lock"
+      ],
+      [
+        "hut",
+        "hot"
+      ]
+    ]
+  },
+  {
+    "id": "th-t",
+    "title": "TH vs T",
+    "sounds": [
+      "/θ/",
+      "/t/"
+    ],
+    "tip": "For /θ/, let air pass between tongue and teeth. For /t/, briefly block air with the tongue behind the upper teeth.",
+    "pairs": [
+      [
+        "thin",
+        "tin"
+      ],
+      [
+        "thank",
+        "tank"
+      ],
+      [
+        "three",
+        "tree"
+      ],
+      [
+        "thought",
+        "taught"
+      ]
+    ]
+  },
+  {
+    "id": "th-d",
+    "title": "Voiced TH vs D",
+    "sounds": [
+      "/ð/",
+      "/d/"
+    ],
+    "tip": "For /ð/, place the tongue gently between the teeth and keep the voice on. /d/ begins with a complete stop.",
+    "pairs": [
+      [
+        "then",
+        "den"
+      ],
+      [
+        "they",
+        "day"
+      ],
+      [
+        "though",
+        "dough"
+      ],
+      [
+        "there",
+        "dare"
+      ]
+    ]
+  },
+  {
+    "id": "z-s",
+    "title": "Z vs S",
+    "sounds": [
+      "/z/",
+      "/s/"
+    ],
+    "tip": "The tongue position is similar, but /z/ is voiced while /s/ is voiceless.",
+    "pairs": [
+      [
+        "zip",
+        "sip"
+      ],
+      [
+        "zoo",
+        "Sue"
+      ],
+      [
+        "buzz",
+        "bus"
+      ],
+      [
+        "prize",
+        "price"
+      ]
+    ]
+  },
+  {
+    "id": "j-y",
+    "title": "J vs Y",
+    "sounds": [
+      "/dʒ/",
+      "/j/"
+    ],
+    "tip": "/dʒ/ begins with a stop and friction, while /j/ glides smoothly into the following vowel.",
+    "pairs": [
+      [
+        "jet",
+        "yet"
+      ],
+      [
+        "joke",
+        "yoke"
+      ],
+      [
+        "jam",
+        "yam"
+      ]
+    ]
+  },
+  {
+    "id": "ng-n",
+    "title": "NG vs N",
+    "sounds": [
+      "/ŋ/",
+      "/n/"
+    ],
+    "tip": "For /ŋ/, raise the back of the tongue toward the soft palate. For /n/, touch behind the upper teeth.",
+    "pairs": [
+      [
+        "sing",
+        "sin"
+      ],
+      [
+        "wing",
+        "win"
+      ],
+      [
+        "rang",
+        "ran"
+      ],
+      [
+        "thing",
+        "thin"
+      ]
+    ]
+  },
+  {
+    "id": "p-f",
+    "title": "P vs F",
+    "sounds": [
+      "/p/",
+      "/f/"
+    ],
+    "tip": "/p/ closes both lips then releases; /f/ keeps airflow moving between upper teeth and lower lip.",
+    "pairs": [
+      [
+        "pat",
+        "fat"
+      ],
+      [
+        "pin",
+        "fin"
+      ],
+      [
+        "pan",
+        "fan"
+      ],
+      [
+        "peel",
+        "feel"
+      ]
+    ]
+  },
+  {
+    "id": "l-w",
+    "title": "L vs W",
+    "sounds": [
+      "/l/",
+      "/w/"
+    ],
+    "tip": "/l/ touches the ridge behind the upper teeth. /w/ begins with rounded lips and no tongue contact there.",
+    "pairs": [
+      [
+        "led",
+        "wed"
+      ],
+      [
+        "light",
+        "white"
+      ],
+      [
+        "lake",
+        "wake"
+      ],
+      [
+        "low",
+        "woe"
+      ]
+    ]
+  }
 ]
